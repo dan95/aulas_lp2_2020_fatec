@@ -85,6 +85,7 @@ A explicação está tão detalhado a respeito das outras proriedades dos 3 arqu
 
 [Visual Studio KeyMap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings): ferramente útil que traz muitos dos atalhos disponíveis no Visual Studio
 - CTRL + K + D: indentar arquivo, de acordo com o tipo de arquivo e extensões instaladas
+- Diversos outros disponíveis na documentação
 
 [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig): útil para definição de regras de indentação e espaçamento de arquivos
 
