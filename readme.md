@@ -25,7 +25,7 @@ Supondo que o local escolhido para a extração do conteúdo do download seja "C
 
 Para acessar as variáveis de ambiente do sistema, siga os passos abaixo:
 
-- Após abrir o menu "Inicia", procure por "env"
+- Após abrir o menu "Iniciar", procure por "env"
 - Selecione a opção "Editar variáveis de ambiente do sistema"
 - Na guia "Avançado", selecione a opção "Variáveis de ambiente"
 - No grupo "Variáveis do sistema", procure pela variável PATH e clique em "Editar"
